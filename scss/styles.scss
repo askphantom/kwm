@@ -1,0 +1,12 @@
+// import fonts to be used
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+// @import "@/node_modules/bootstrap/scss/function.scss";
+@import "./_variables.scss";
+
+// Import all of Bootstrap's CSS
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+// Import bootstrap-icons
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
