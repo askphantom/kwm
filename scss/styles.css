@@ -49,7 +49,7 @@
 
 .parallax {
   /* The image used */
-  background-image: url("assets/images/h1-parallax-1.jpg");
+  background-image: url("../assets/images/h1-parallax-1.jpg");
   /* Full height */
   height: 400px;
   /* Create the parallax scrolling effect */
